@@ -1,0 +1,47 @@
+html { 
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+  margin: 0;
+  
+}
+
+body {
+  width: 75%;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 4.3rem;
+  color: palevioletred;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.4rem;
+  line-height: 1.6;
+  word-spacing: 0.3rem;
+
+}
+
+h3 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.4rem;
+  line-height: 1.6;
+  word-spacing: 0.3rem;
+  
+
+}
+
+p {
+  font-size: 1.4rem;
+  line-height: 1.6;
+  word-spacing: 0.3rem;
+}
+
+li {
+  list-style-type: none;
+  color: palevioletred
+}
